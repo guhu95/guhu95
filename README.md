@@ -1,16 +1,21 @@
-### Hi there 👋
+### What I do
+Combine smart contract audits and bounties as part of a healthy bug-hunting diet.
 
-<!--
-**guhu95/guhu95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Credentials  
+- On the [Immunefi leaderboard](https://immunefi.com/leaderboard/), having found multiple live criticals in known projects.
+- Years of crushing audits in a top-tier firm.
 
-Here are some ideas to get you started:
+### 🥇 Value prop
+- Will provide an exceptional quality audit.
+- Will find bugs others would miss.
+- Will find economic exploits and weaknesses.
+- Will suggest code, architecture, and maintainability improvements.
+- Will then find additional bugs in your fixes that others would miss.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👀 Look Before You Book
+Feel free to ask for an example of a past audit.
+
+### 👋 Contact
+- [Twitter DMs](https://twitter.com/Guhu95)
+- Discord: `guhu95`.
+- [Cantina profile](https://cantina.xyz/u/guhu95/)
