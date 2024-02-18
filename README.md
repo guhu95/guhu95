@@ -2,7 +2,7 @@
 Combine smart contract audits and bounties as part of a healthy bug-hunting diet.
 
 ### 🏆 Credentials  
-- On the [Immunefi leaderboard](https://immunefi.com/leaderboard/), having found multiple live criticals in known projects.
+- Previously on the [Immunefi leaderboard](https://twitter.com/Guhu95/status/1692850687682760982), having found multiple live criticals in known projects.
 - Years of crushing audits in a top-tier firm.
 
 ### 🥇 Value prop
