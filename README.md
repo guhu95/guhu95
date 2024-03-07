@@ -2,7 +2,7 @@
 Combine smart contract audits and bounties as part of a healthy bug-hunting diet.
 
 ### 🏆 Credentials  
-- Previously on the [Immunefi leaderboard](https://twitter.com/Guhu95/status/1692850687682760982), having found multiple live criticals in known projects.
+- On the [Immunefi leaderboard](https://immunefi.com/leaderboard/) ar #22 for 2023 and #46 highest previous overall ranking. Found multiple live criticals in known projects.
 - Years of crushing audits in a top-tier firm.
 
 ### 🥇 Value prop
